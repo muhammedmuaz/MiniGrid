@@ -1,4 +1,4 @@
-# jerry_app
+# Mini Grid
 
 A new Flutter project.
 
